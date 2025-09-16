@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <Title>My AI490 Site</Title>
+        <Title>My AI490 Site</Title>
+        <style>
+            body {
+                background-color: red;
+            }
+        </style>
 </head>
 <body>
     <h1>Hello from my first webpage!</h1>
