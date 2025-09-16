@@ -6,6 +6,9 @@
             body {
                 background-color: red;
             }
+            h1 {
+                text-align: center;
+            }
         </style>
 </head>
 <body>
