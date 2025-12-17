@@ -90,7 +90,7 @@
     </header>
     <div class="container">
         <div class="about-me">
-            <img src="https://via.placeholder.com/150" alt="Profile Picture">
+            <img src="headshot.jpeg" alt="Professional Headshot">
             <div>
                 <h2>About Me</h2>
                 <p>Welcome! I'm Jared Curran, a Finance and Economics dual degree student graduating in 2026. I have a strong interest in artificial intelligence and its applications in business and economics.</p>
