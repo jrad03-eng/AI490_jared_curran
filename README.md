@@ -100,7 +100,7 @@
         </div>
         <div class="cards">
             <div class="card">
-                <img src="https://via.placeholder.com/50" alt="Resume Icon">
+                <img src="headshot.jpeg" alt="Professional Headshot">
                 <h3>Resume</h3>
                 <p>View my professional background, education, and experience</p>
                 <a href="resume.pdf" target="_blank">View Resume</a>
