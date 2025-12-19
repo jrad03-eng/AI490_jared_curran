@@ -125,8 +125,8 @@
                 <a href="AI490_jared_curran/index.html">View Projects</a>
                 <!-- Added links for the PDF and PowerPoint under Projects -->
                 <div class="extra-links">
-                    <a href="projects/NCAA%20Report.pdf" target="_blank">NCAA Report.pdf</a>
-                    <a href="projects/AI_Economics_and_College_Sports.pptx" target="_blank">AI_Economics_and_College_Sports.pptx</a>
+                    <a href="NCAA Report.pdf" target="_blank">NCAA Report.pdf</a>
+                    <a href="AI_Economics_and_College_Sports.pptx" target="_blank">AI_Economics_and_College_Sports.pptx</a>
                 </div>
             </div>
         </div>
