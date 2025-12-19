@@ -103,7 +103,7 @@
                 <img src="headshot.jpeg" alt="Professional Headshot">
                 <h3>Resume</h3>
                 <p>View my professional background, education, and experience</p>
-                <a href="Jared Curran Resume (Nov. 2025).pdf" target="_blank">View Resume</a>
+                <a href="Resume.pdf" target="_blank">View Resume</a>
             </div>
             <div class="card">
                 <img src="https://via.placeholder.com/50" alt="Projects Icon">
