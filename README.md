@@ -81,6 +81,19 @@
         .card a:hover {
             background-color: #4682B4;
         }
+        .card .extra-links {
+            margin-top: 1rem;
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        .card .extra-links a {
+            background-color: #6c757d;
+        }
+        .card .extra-links a:hover {
+            background-color: #5a6268;
+        }
     </style>
 </head>
 <body>
@@ -93,8 +106,8 @@
             <img src="headshot.jpeg" alt="Professional Headshot">
             <div>
                 <h2>About Me</h2>
-                <p>Welcome! I'm Jared Curran, a Finance and Economics dual degree student graduating in 2026. I have a strong interest in artificial intelligence and its applications in business and economics.</p>
-                <p>I'm passionate about leveraging data-driven insights and emerging technologies to solve complex problems. This portfolio showcases my academic work and projects in the field of AI.</p>
+                <p>Welcome! I'm Jared Curran, a Finance and Economics dual degree student graduating in 2026. I have a strong interest in artificial intelligence and its applications in business and e[...]</p>
+                <p>I'm passionate about leveraging data-driven insights and emerging technologies to solve complex problems. This portfolio showcases my academic work and projects in the field of AI.[...]</p>
                 <p>Feel free to explore my resume and projects below to learn more about my background and experience.</p>
             </div>
         </div>
@@ -110,6 +123,11 @@
                 <h3>Projects</h3>
                 <p>Explore my AI class project and academic work</p>
                 <a href="AI490_jared_curran/index.html">View Projects</a>
+                <!-- Added links for the PDF and PowerPoint under Projects -->
+                <div class="extra-links">
+                    <a href="projects/NCAA%20Report.pdf" target="_blank">NCAA Report.pdf</a>
+                    <a href="projects/AI_Economics_and_College_Sports.pptx" target="_blank">AI_Economics_and_College_Sports.pptx</a>
+                </div>
             </div>
         </div>
     </div>
